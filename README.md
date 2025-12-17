@@ -11,7 +11,7 @@ This project analyzes financial data (2022-2024) for Apple, Microsoft, and Tesla
 - `Book2.csv` - Dataset used for analysis
 
 ## Requirements
-- Python 3.x
+- Python 3
 - pandas
 - numpy
 - matplotlib
